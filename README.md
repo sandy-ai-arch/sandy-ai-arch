@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on Ericsson<br>Ask me about AI & DevOps Engineering
+I am working at Ericsson<br>Ask me about AI & DevOps Engineering
 
 
 ## 🌐 Socials:
